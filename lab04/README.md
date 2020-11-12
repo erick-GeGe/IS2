@@ -37,7 +37,7 @@ make
 ## Integracion de gtest
 Intalamos la herramienta CMake tools
 
-![cmake tools](img/img_2_g.png)
+![cmake tools](img/img_2.png)
 
 Vamos a terminal, y creamos una nueva built 
 
