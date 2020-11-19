@@ -15,11 +15,12 @@ Iniciar el proyecto con tu IDE  de preferencia en este caso Pycharm y crear el s
 
 ## Ejecucion 
 Asegurarse de importar el selenium y el unit test, Luego simplemente correr el script
+
 ![Ejecucion](imgs/ejecucion.png)
 
 ## Resultados
 En consola nos mostrara si las pruebas se realizaron con exito
 ![Eesultados](imgs/resultados.png)
 
-## Casoso de prueba
+## Casos de prueba
 ![Casos de prueba](imgs/casos_prueba.png)
